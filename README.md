@@ -1,4 +1,4 @@
-# RTX 3060 Hashrate ETH/KawPow limiter Bypass Driver 470.05
+## RTX 3060 Hashrate ETH/KawPow limiter Bypass Driver 470.05
 <h3 align="center"><img src="https://i.imgur.com/GoxeZtU.png" alt="logo" height="250px"></h3>
 <h5 align="center">
   
