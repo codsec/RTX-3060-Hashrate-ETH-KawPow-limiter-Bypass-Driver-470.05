@@ -1,9 +1,13 @@
 # RTX 3060 Hashrate ETH/KawPow limiter Bypass Driver 470.05
+<h3 align="center"><img src="https://i.imgur.com/GoxeZtU.png" alt="logo" height="250px"></h3>
+<h5 align="center">
+  
 ```
-                                       RTX 3060 Hashrate ETH limiter Bypass Driver(470.05)
-                                                  Fast and Easy to mining!  
-                                               the best performance oc config
+RTX 3060 Hashrate ETH limiter Bypass Driver(470.05)
+Fast and Easy to mining!  
+The best performance oc config
 ```
+</h5>
 
 ***
 
