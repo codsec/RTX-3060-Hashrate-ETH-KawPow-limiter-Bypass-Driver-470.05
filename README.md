@@ -37,8 +37,9 @@ The best performance oc config
 
 ***
 
-### 🤑42 MH/s OC Config Performance:
+### 🤑42 MH/s Limiter Bypass Driver Performance:
 ###### No OC is needed to achieve this amount of MH/s, just run your miner again after installing the [Driver](https://github.com/codsec/RTX-3060-Hashrate-ETH-limiter-Bypass-Driver-470.05/releases/tag/v470-beta.05) and you are already getting just under 42 MH/s.
+<h3 align="center"><img src="https://i.imgur.com/9neMwch.png" alt="logo" height="350px"></h3>
 
 ### 😨48 MH/s OC Config Perfomance:
 ###### *Overclocking the memory to +1000 MHz with MSI Afterburner and lowering the power limit to 88% we managed to hit just shy of 48 MH/s.*
@@ -46,6 +47,7 @@ The best performance oc config
 - **Core Clock:** ```-400 MHz```
 - **Memory Clock:** ```+1000 MHz```
 -  **Fan SPeed:** ```85%```
+<h3 align="center"><img src="https://i.imgur.com/5gvtvmp.png" alt="logo" height="350px"></h3>
 
 ### 🥵50 MH/s OC Config Performance:
 ###### Info: Reaching over 50 MH/s is possible if your card is a decent overclocker, overclocking up to +1550 MHz will become a stability issue in GDDR6 memory modules
@@ -53,3 +55,4 @@ The best performance oc config
 - **Core Clock:** ```-400 MHz```
 - **Memory Clock:** ```+1450 MHz```
 - **Fan SPeed:** ```max 90%```
+<h3 align="center"><img src="https://i.imgur.com/5d66SYn.png" alt="logo" height="350px"></h3>
